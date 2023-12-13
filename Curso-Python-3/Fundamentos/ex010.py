@@ -1,0 +1,2 @@
+c=float(input('Quanto você tem na sua carteira? R$'))
+print(f'Com R${c} na carteira, você pode comprar US${c/4.9:.2f} ou €{c/5.31:.2f} ou ¥{c/0.033:.2f}!\n|OS VALORES SÃO CALCULADOS COM BASE DADOS DE 12/23|')
